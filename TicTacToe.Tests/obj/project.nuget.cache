@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xBvmr4CzmTSXzeYYLEXVhxb3th8dvztgfdF2CqK7V96SGkGDGUtvU1+1OsHzYIeI0yEGdCVHUiCidM15ykRsrQ==",
+  "dgSpecHash": "ObTy1dJinuKiSt9v5Cn0dSk6tC8Eei6Hg+sfVkUTUZih+AE9VVQQVYQUdJX7qoc3Y2oTm94FBo4ssiFazDmDdA==",
   "success": true,
   "projectFilePath": "/Users/Michael.Wang/Desktop/MYOB/MYOB Katas/Language Design/TicTacToeTDD/TicTacToe.Tests/TicTacToe.Tests.csproj",
   "expectedPackageFiles": [
